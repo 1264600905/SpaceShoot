@@ -12,3 +12,17 @@
 
 围观视频
 https://www.bilibili.com/video/BV1hZ4y1M7hA
+
+这个项目完全是个人独立完成,算是一个阶段性的项目
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/01.png)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/02.png)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/03.png)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/04.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/05.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/06.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/07.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/08.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/09.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/10.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/11.jpg)
+![image](https://github.com/1264600905/SpaceShoot/blob/master/note/12.jpg)
